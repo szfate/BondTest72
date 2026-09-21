@@ -45,7 +45,7 @@ Schematic:
 
 PCB:
 - Board size reduced from 80 × 100 mm to 80 × 90 mm
-- LEDs and button moved to the right side of the board so the panel no longer covers the LEDs; with the board rotated 90° the LEDs face front. Space left for button caps
+- LEDs and button moved to the right side of the board so the panel no longer covers the LEDs; Space left for button caps
 - Feet marks on the bottom silk enlarged from 8 mm to 10 mm
 
 ### r1 (2026-05-12)
