@@ -1,0 +1,18 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,Part Number
+A1,1,RaspberryPi_Pico,,,,Module:RaspberryPi_Pico_Common_Unspecified,https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf,C41407547
+"C20,C21,C22,C23,C24,C25,C39,C45,C46,C48,C49",11,100n,,,,Capacitor_SMD:C_0201_0603Metric,,C76939
+"C40,C41",2,1u,,,,Capacitor_SMD:C_0201_0603Metric,,C170153
+"C42,C43,C44",3,10u,,,,Capacitor_SMD:C_1206_3216Metric,,C9807
+C50,1,120pF,,,,Capacitor_SMD:C_0201_0603Metric,,C161405
+"D1,D2",2,SK6812,,,,LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm,https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf,C5378720
+J1,1,Conn_01x07,DNP,,,Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical,,
+"J3,J4",2,Conn_2Rows-41Pins_MountingPin,,,,df9:DF9-41P-1V,,C21261706
+R11,1,27.4K,,,,Resistor_SMD:R_0201_0603Metric,,C273316
+R12,1,2.49k,,,,Resistor_SMD:R_0201_0603Metric,,C851701
+R13,1,280k,,,,Resistor_SMD:R_0201_0603Metric,,C778392
+R14,1,10k,,,,Resistor_SMD:R_0201_0603Metric,,C106225
+R15,1,100k,,,,Resistor_SMD:R_0201_0603Metric,,C106224
+SW1,1,SW_Push,,,,Button_Switch_SMD:SW_SPST_EVQQ2,,C713484
+SW2,1,SW_Push,,,,Button_Switch_SMD:SW_SPST_EVPBF,,C4365008
+U1,1,ICL7660,,,,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://datasheets.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf,C356724
+"U2,U3,U4",3,CH446X,,,,Package_QFP:LQFP-44_10x10mm_P0.8mm,,C3018882

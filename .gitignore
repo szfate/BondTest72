@@ -1,3 +1,9 @@
-*.lck
+# KiCad
+*.kicad_prl
+~*.lck
+*-backups/
+*.bak
+
+# VS Code
 .history/
-BondTest72-backups/
+gerbers/

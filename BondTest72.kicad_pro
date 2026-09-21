@@ -50,7 +50,23 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "border_display_style": 2,
+          "border_hatch_pitch": 0.5,
+          "corner_radius": 0.0,
+          "corner_smoothing": 0,
+          "fill_mode": 0,
+          "hatch_gap": 1.5,
+          "hatch_orientation": 0.0,
+          "hatch_smoothing_level": 0,
+          "hatch_smoothing_value": 0.1,
+          "hatch_thickness": 1.0,
+          "min_clearance": 0.2,
+          "min_island_area": 10.0,
+          "min_thickness": 0.25,
+          "pad_connection": 1,
+          "remove_islands": 0,
+          "thermal_relief_gap": 0.5,
+          "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -540,6 +556,7 @@
       "netlist": "",
       "plot": "./gerbers",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -680,13 +697,13 @@
         "uuid": "61986f4e-f9d0-4cbf-b2c9-327b4af655a3"
       }
     ],
-    "used_designators": "D4",
+    "used_designators": "SW4,NT4,U1,D4,#PWR14-18,#PWR32-37,#PWR84,#PWR107-108,C23-25,C42-44,C50,R12,R14-16",
     "variants": []
   },
   "sheets": [
     [
       "61986f4e-f9d0-4cbf-b2c9-327b4af655a3",
-      "BondTest72_Mainboard_CH446X"
+      "BondTest72"
     ]
   ],
   "text_variables": {},
